@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 name : "Bala",
 name : "Pandy",
+=======
+name : "guru"
+name : "som"
+>>>>>>> som
